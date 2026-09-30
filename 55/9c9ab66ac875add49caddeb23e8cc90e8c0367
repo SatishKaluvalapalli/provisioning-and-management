@@ -1,0 +1,30 @@
+config-arm/TR181-USGv2.XML
+  h_9b9358c5248cc5 8198-8199,8210,8212-8213,8223,8225-8226
+source-arm/TR-181/board_sbapi/cosa_ip_apis.c
+  h_9b9358c5248cc5 4650-4651,4653-4658,4660,4663
+source/TR-181/include/cosa_ip_apis.h
+  h_9b9358c5248cc5 288-289
+source/TR-181/integration_src.shared/cosa_ip_apis_multilan.c
+  h_9b9358c5248cc5 1546,1563,2834-2835,2838-2841
+source/TR-181/middle_layer_src/cosa_apis_util.c
+  h_9b9358c5248cc5 95,1796-1911
+source/TR-181/middle_layer_src/cosa_apis_util.h
+  h_9b9358c5248cc5 258-267
+source/TR-181/middle_layer_src/cosa_dml_api_common.h
+  h_9b9358c5248cc5 127-128
+source/TR-181/middle_layer_src/cosa_ip_dml.c
+  h_9b9358c5248cc5 5873-5940,6045
+source/TR-181/middle_layer_src/cosa_ip_dml.h
+  h_9b9358c5248cc5 1524,1585-1592
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "559c9ab66ac875add49caddeb23e8cc90e8c0367",
+  "prompts": {},
+  "humans": {
+    "h_9b9358c5248cc5": {
+      "author": "kaluvalapalli.satish <kaluvalapalli.satish@telekom-digital.com>"
+    }
+  }
+}
